@@ -1,0 +1,124 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 100%;
+    margin-bottom: 15px;
+    border-bottom: 5px;
+    border-color: #e8eef7;
+}
+header a{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+header .slacara{
+    float:right;
+}
+.bucker{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bucker input{
+    height: 15px;
+    margin-left: 25px;
+    margin-right: 5px;
+}
+.bucker h2{
+    font-size: 30px;
+}
+.bucker button{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.abidou{
+    width: 120px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.abidou a{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.biridou{
+    height: 100%;
+    width: 90%;
+    align-items: center;
+    float: right;
+    border-color: #c3d9ff;
+    border-width: 6px;
+    background-color: #e8eef7;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.birigiabi{
+    background-color: #e8eef7;
+    font-size: 14px;
+}
+.birigiabi a{
+    text-align: right;
+}
+.bugalu{
+    background-color: white;
+    padding: 10px;
+}
+.bingo{
+    background-color: #c3d9ff;
+    padding: 4px;
+    border-color: #c3d9ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.xinxinxin{
+    border: 2px;
+    border-color: black;
+    border-width: thin;
+    border-style: solid;
+    margin: 10px;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.socorrodeusmeacuda{
+    background-color: #EFEFEF;
+}
+.socorrodeusmeacuda b{
+    color: #00681C;
+}
+.socorrodeusmeacuda a{
+    color: black;
+    margin-left: 6px;
+    font-size: 12px;
+    text-align: end;
+}
+.rrte{
+    padding: 15px;
+    font-size: 15px;
+}
+.rapraprap{
+    background-color: #e8eef7;
+}
+.rapraprap textarea{
+    width: 500px;
+    height: 250px;
+}
+.rapraprap button{
+    margin-left: 50px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.muaythay{
+    margin-top: 20px;
+    background-color: #c3d9ff;
+    height: 100%;
+}
+.xubirau{
+    margin-left: 0px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
